@@ -1,0 +1,124 @@
+* {
+    margin:0;
+    padding:0;
+}
+
+body {
+
+    background-image: url(./fondo.png);
+    font-family: 'Poppins', sans-serif;
+        background-repeat:repeat;
+    background-position:center;
+    padding: 5vh 5vw;
+
+}
+
+.div
+{background-color: white;
+
+}
+
+.foto{
+height: auto;
+    width: 200px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+
+
+}
+
+
+h1 {
+
+    color: rgb(79, 66, 227);
+    text-align:left;
+    font-size: 40px;
+    width: 150px;
+    height: 100px;
+    
+}
+
+    
+
+
+.opciones {
+   text-align: center;
+
+}
+
+.principio 
+
+{
+    background-color: white;
+color:black;
+text-align: center;
+font-size:larger;
+font-family: Nunito;
+margin: 25px;
+}
+
+
+h3, .lista2{
+
+color: rgb(59, 232, 192);
+text-align: left;
+}
+
+footer { 
+
+color:violet;
+text-align: right;
+color: hsl(165, 17%, 95%);
+margin: 25px 20px;
+padding: 10px;
+border:none;
+list-style-type:  none;
+
+
+}
+
+
+
+.parrafo1 {
+
+    color:black;
+        font-size:large;
+    text-align: center;
+        margin:40px;
+    padding: 20px;
+
+    
+
+ }
+
+ .menu-container {
+
+    color: black;
+    padding: 20px 0;
+    list-style-type: none;
+    display: flex;
+    justify-content:end;
+ }
+
+ .menu {
+
+    width: 900px;
+    display: flex;
+    list-style-type: none;
+    justify-content: space-around;
+
+ }
+
+ .containerfooter {
+     display: flex;
+     justify-content: space-around;
+     list-style-type: none;
+ }
+.divcontacto {
+    display: flex;
+    justify-content: start;
+    border-radius:8px;
+    padding:20px;
+}
