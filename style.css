@@ -27,8 +27,14 @@ height: auto;
     margin-right: 100px;
 
 
+
 }
 
+.foto:hover {
+
+    transform: scale(2);
+    transition-duration: 2s;
+}
 
 h1 {
 
